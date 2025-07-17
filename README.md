@@ -1,3 +1,4 @@
+[![pub package](https://img.shields.io/pub/v/apso_flutter_sdk.svg)](https://pub.dev/packages/apso_flutter_sdk)
 
 # Apso Flutter SDK
 
