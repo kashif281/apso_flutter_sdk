@@ -1,0 +1,14 @@
+
+name: apso_flutter_sdk
+description: A Dart/Flutter SDK that replicates the functionality of @apso/sdk.
+version: 0.1.0
+homepage: https://github.com/yourusername/apso_flutter_sdk
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  dio: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

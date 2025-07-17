@@ -1,0 +1,10 @@
+
+# Flutter/Dart/Pub related
+**/build/
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melonhead
+.idea/
