@@ -60,7 +60,7 @@ class EntityRequest {
       final response = await dio.get('/\$entity', queryParameters: queryParams);
       return response.data['data'];
     } on DioException catch (e) {
-      throw Exception('API error: \${e.response?.data}');
+      throw Exception("API error: ${e.response?.data}");
     }
   }
 
